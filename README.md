@@ -1,7 +1,3 @@
-Here’s a detailed README for your GitHub repository, including setup instructions, usage, and debug info:
-
----
-
 # F1 Telemetry Predictor
 
 This Python project uses the FastF1 library to fetch telemetry data for Formula 1 races, and integrates with the Ergast API to retrieve driver names. The project also includes weather data and pit stop information for a selected race session and driver. The telemetry data is visualized with a scatter plot showing the driver's speed over the circuit layout.
